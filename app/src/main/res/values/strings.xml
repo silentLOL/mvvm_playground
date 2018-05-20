@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MVVM_Playground</string>
+    <string name="greeting_dialog_title">Greetings</string>
+    <string name="got_it">Got It</string>
+</resources>
