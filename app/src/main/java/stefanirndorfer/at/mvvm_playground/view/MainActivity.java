@@ -31,7 +31,6 @@ public class MainActivity extends AppCompatActivity implements GreetingDialogLis
     }
 
     private void initDataBinding() {
-        ActivityMainBinding activityMainBinding = DataBindingUtil.setContentView(this, R.layout.activity_main);
-        activityMainBinding.setViewModel
+        setContentView(R.layout.activity_main);
     }
 }
