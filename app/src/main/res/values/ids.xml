@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="fizz_buzz_textview" type="id">fizz_buzz_textview</item>
+    <item name="hello_textview" type="id" />
+</resources>
